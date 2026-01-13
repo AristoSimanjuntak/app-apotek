@@ -1,0 +1,8 @@
+{
+    "montserrat": {
+        "300": "C:\\xampp\\htdocs\\ApotekSambu\\vendor\\dompdf\\dompdf\/lib\/fonts\/montserrat_300_90810f59140babe6baf47181a1969ded",
+        "normal": "C:\\xampp\\htdocs\\ApotekSambu\\vendor\\dompdf\\dompdf\/lib\/fonts\/montserrat_normal_9159467a86f581e72ee7570676b9b175",
+        "500": "C:\\xampp\\htdocs\\ApotekSambu\\vendor\\dompdf\\dompdf\/lib\/fonts\/montserrat_500_2451ba6ad763c7a710758af7736b472e",
+        "600": "montserrat_600_a6ba431aa906bdd304891e19fba90637"
+    }
+}
