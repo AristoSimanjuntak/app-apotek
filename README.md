@@ -51,3 +51,12 @@ git commit -m "feat: initial CI3 project structure"
 Kalau sudah banyak commit berantakan:
 
 git reset $(git commit-tree HEAD^{tree} -m "Initial commit")
+
+login page
+<img width="1366" height="605" alt="image" src="https://github.com/user-attachments/assets/5991ee73-616b-4a04-a14b-185978d7ea8c" />
+
+Halaman table obat
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/ce78caa5-c4d7-4a59-9b3c-e9ff4c73a3a2" />
+
+
+
